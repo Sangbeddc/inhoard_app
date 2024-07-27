@@ -1,0 +1,7 @@
+.page{
+    max-height: 85vh;
+    /* overflow: auto; */
+    min-height: 85vh;
+    display: flex;
+    flex-direction: row;
+}

@@ -14,7 +14,7 @@ const Header = () => {
   return (
     <nav className='header-nav'>
       <div className='header-logo'>
-        <img src={companyLogo}  onClick={handleLogoClick} style={{maxHeight: '8vh'}}/>
+        <img src={companyLogo}  onClick={handleLogoClick} style={{maxHeight: '7vh'}}/>
       </div>
       <div className='header-account-info'>
         <AccountInfo />
